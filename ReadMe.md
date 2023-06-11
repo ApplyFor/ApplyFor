@@ -2,7 +2,7 @@
 NCTU CS BS<br>XQUARE Junior Software Engineer<br>NCKU CSIE MS
 
 
-# SNS:
+# Social Media:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chenyingchen_0505) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/applyfor) 
 
 # Tech Stack:
